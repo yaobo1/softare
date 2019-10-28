@@ -1,1 +1,3 @@
-# softare
+README.md
+readme.txt
+test
